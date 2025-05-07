@@ -1,15 +1,27 @@
 # Project03-JuicyBreakout
 
 # Project Name
-Context and date
+Juicy Brick Breaker
 
-Description
+A brick breaker that feels and looks great to play
 
 ## Implementation
-Which features you included
+- three levels
+- changing colors
+- score is tracker
+- main menu
+- end game screen
+- animated elements when hit
+- music in each level
+- animated brick appearance
+- animated brick disappearance
+- ball has trail
+- ball has face and eyes
+- unique bounce pad designed by me
 
 ## References
 
 ## Future Development
 
 ## Created by
+Max Ramirez, DoughNStuff
